@@ -1,1 +1,2 @@
 # odin-recipes
+This project is a simplistic website designed using the fundamentals of HTML for my own learning. It comprises an index (home) page with links to several fabricated recipes, and has been set up as an early effort at web development before CSS is applied at a later date.
